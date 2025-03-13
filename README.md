@@ -3,13 +3,8 @@
 
 ### Github Overview😄
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yangrongxinuser&count_private=true&show_icons=true&theme=buefy&bg_color=40,FFFFFF,DDDDFF" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yangrongxinuser&hide=html,javascript,CSS,jupyter%20notebook&bg_color=40,FFFFFF,EEEEFF&layout=compact" />
-</a>
-<!--  IF you want to create a statisitc band like above, you can visit this offical repo to create and define your own band style:
-     https://github.com/anuraghazra/github-readme-stats
--->
+[![](https://img.shields.io/badge/🌐%20%20%20Homepage-red??&style=flat-square)](https://github.com/yangrongxinuser)
+[![](https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com.hk/citations?user=871rsE0AAAAJ&hl=zh-CN)
 
 ### 🎓 About Me:
 
