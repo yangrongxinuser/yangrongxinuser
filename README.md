@@ -9,9 +9,9 @@
 
 ### 🎓 About Me:
 
-- 🔭 I am pursuing a Bachelor of Engineering degree in Computer Science and Technology at Sichuan University🐼, China.
+- 🔭 I have earned my Bachelor of Engineering degree in Computer Science and Technology from the [College of Computer Science](https://cs.scu.edu.cn/) at [Sichuan University (SCU)](https://www.scu.edu.cn/)
 - 🌱 Focused on machine learning and neural networks. Proficient in PyTorch, Spring Boot, and Vue, R.
-- 💡 I was admitted to [The National Institute of Health Data Science at Peking University](https://www.nihds.pku.edu.cn/)
+- 💡 I was admitted to [The National Institute of Health Data Science at Peking University](https://www.nihds.pku.edu.cn/) to pursue a master’s degree in Health Data Science.
 - 👯 I am excited to be part of the NIHDS-PKU community and look forward to contributing to the field of AI For Healthcare! 
 - 📫 Reach me at rongxinyang793@gmail.com.
 - 😄 Motto: Well, perhaps the path appears straight when we look back at it. On the way, we often feel lost.
